@@ -1,3 +1,8 @@
 * text=auto !eol
 /apertium-la-it.la-it.dix -text
 /apertium-la-it.la-it.t1x -text
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
